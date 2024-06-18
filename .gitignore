@@ -1,0 +1,10 @@
+# .gitignore
+config.py
+test.py
+test_get_gas_prices.py
+__pycache__/calculate_trip_cost.cpython-311.pyc
+__pycache__/config.cpython-311.pyc
+__pycache__/get_gas_prices.cpython-311.pyc
+__pycache__/get_route_zip_codes.cpython-311.pyc
+__pycache__/main.cpython-311.pyc
+__pycache__/process_trip.cpython-311.pyc
